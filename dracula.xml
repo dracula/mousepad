@@ -68,7 +68,7 @@ SOFTWARE.
 	<style name="def:type" foreground="green"/>
 	<style name="def:preprocessor" foreground="green"/>
 	<style name="def:comment" foreground="comment"/>
-	
+
 	<!-- Python-specific stuff -->
 	<style name="python:module-handler" foreground="pink"/>
 	<style name="python:function-name" foreground="green"/>
