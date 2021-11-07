@@ -5,5 +5,7 @@
  `git clone https://github.com/dracula/mousepad.git && cd mousepad`
 2. Create folder inside your $HOME folder
  `mkdir -p "$HOME/.local/share/gtksourceview-3.0/styles" `
-3. Finally move the dracula.xml
- `mv dracula.xml $HOME/.local/share/gtksourceview-3.0/styles`
+3. Copy the dracula.xml
+ `cp dracula.xml $HOME/.local/share/gtksourceview-3.0/styles`
+ 
+Note! if mousepad doesn't recognize change `gtksourceview-3.0` to `gtksourceview-4`
