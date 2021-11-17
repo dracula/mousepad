@@ -1,6 +1,6 @@
 # Dracula for [Mousepad](https://salsa.debian.org/xfce-team/apps/mousepad)
 
-> A dark theme for [Mousepad](https://github.com/codebrainz/mousepad).
+> A dark theme for [Mousepad](https://gitlab.xfce.org/apps/mousepad).
 
 ![Screenshot](./screenshot.png)
 
