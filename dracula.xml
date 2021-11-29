@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme id="dracula" _name="Dracula" version="1.0">
   <author>Alvin Septiano</author>
-  <_description>Color scheme Dracula</_description>
+  <_description>Dracula color scheme</_description>
   
 	<!-- Dracula Color Palette -->
 	<color name="background" value="#282a36"/>
