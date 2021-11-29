@@ -46,7 +46,7 @@
 
   <!-- Global Settings -->
   <style name="text"                        foreground="white" background="background"/>
-  <style name="selection"                   foreground="selection" background="white"/>
+  <style name="selection"                   foreground="bone-white" background="current-line"/>
   <style name="cursor"                      foreground="bone-white"/>
   <style name="secondary-cursor"            foreground="white"/>
   <style name="selection-unfocused"         foreground="white" background="background"/>
