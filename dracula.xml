@@ -69,7 +69,7 @@
   <style name="def:comment"                 foreground="comment"/>
   <style name="def:number"                  foreground="purple"/>
   <style name="def:string"                  foreground="yellow"/>
-  <style name="def:net-address-in-comment"  foreground="blue" italic="true" underline="true"/>
+  <style name="def:net-address-in-comment"  foreground="cyan" italic="true" underline="true"/>
   <style name="def:underlined"              italic="true" underline="true"/>
   <style name="def:note"                    foreground="white" background="background" bold="true"/>
   <style name="def:error"                   foreground="red" bold="true"/>
@@ -86,7 +86,7 @@
   <style name="def:special-constant"        foreground="pink" bold="true"/>
   
   <style name="diff:added-line"             foreground="bone-white"/>
-  <style name="diff:removed-line"           foreground="blue"/>
+  <style name="diff:removed-line"           foreground="cyan"/>
   <style name="diff:changed-line"           foreground="red"/>
   <style name="diff:diff-file"              foreground="green" bold="true"/>
   <style name="diff:location"               foreground="yellow"/>
@@ -100,12 +100,12 @@
   <style name="def:inline-code"             foreground="background"/>
   <style name="def:insertion"               underline="single"/>
   <style name="def:deletion"                strikethrough="true"/>
-  <style name="def:link-text"               foreground="blue"/>
-  <style name="def:link-symbol"             foreground="blue" bold="true"/>
+  <style name="def:link-text"               foreground="cyan"/>
+  <style name="def:link-symbol"             foreground="cyan" bold="true"/>
   <style name="def:link-destination"        italic="true" underline="single"/>
   <style name="def:heading"                 foreground="green" bold="true"/>
   <style name="def:thematic-break"          foreground="orange" bold="true"/>
-  <style name="def:preformatted-section"    foreground="blue"/>
+  <style name="def:preformatted-section"    foreground="cyan"/>
   <style name="def:list-marker"             foreground="white" bold="true"/>
   
   <style name="def:heading0"                scale="5.0"/>
