@@ -49,7 +49,7 @@
   <style name="selection"                   foreground="bone-white" background="current-line"/>
   <style name="cursor"                      foreground="bone-white"/>
   <style name="secondary-cursor"            foreground="white"/>
-  <style name="selection-unfocused"         foreground="white" background="background"/>
+  <style name="selection-unfocused"         foreground="background" background="white"/>
   <style name="current-line"                background="current-line"/>
   <style name="line-numbers"                foreground="current-line" background="background"/>
   <style name="background-pattern"          background="background"/>
