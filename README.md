@@ -1,4 +1,4 @@
-# Dracula for [Mousepad](https://salsa.debian.org/xfce-team/apps/mousepad)
+# Dracula for [Mousepad](https://docs.xfce.org/apps/mousepad/start)
 
 > A dark theme for [Mousepad](https://gitlab.xfce.org/apps/mousepad).
 
