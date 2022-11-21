@@ -97,7 +97,7 @@
   
   <style name="def:emphasis"                italic="true"/>
   <style name="def:strong-emphasis"         foreground="white" bold="true"/>
-  <style name="def:inline-code"             foreground="background"/>
+  <style name="def:inline-code"             foreground="purple"/>
   <style name="def:insertion"               underline="single"/>
   <style name="def:deletion"                strikethrough="true"/>
   <style name="def:link-text"               foreground="cyan"/>
