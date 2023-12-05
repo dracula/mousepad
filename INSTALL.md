@@ -2,18 +2,18 @@
 
 #### Install manually
 1. Git clone this repository
-```python
- git clone https://github.com/dracula/mousepad.git && cd mousepad
+```text
+git clone https://github.com/dracula/mousepad.git && cd mousepad
 ```
 3. Create a folder inside your $HOME folder
-```python
- mkdir -p $HOME/.local/share/gtksourceview-3.0/styles
+```text
+mkdir -p $HOME/.local/share/gtksourceview-3.0/styles
 ```
 <br>If you're installing Mousepad using Flatpak the directory is in `~/.var/app/org.xfce.mousepad/data/gtksourceview-4/styles`
 
 4. Copy the dracula.xml
-```python
- cp dracula.xml ~/.local/share/gtksourceview-3.0/styles
+```text
+cp dracula.xml ~/.local/share/gtksourceview-3.0/styles
 ```
 5. Go to Edit > Preferences > View > Color scheme > Dracula <br>
 
